@@ -26,7 +26,7 @@ At the root of the project, there are two directories: client and server. React/
 To create a production build, run `npm run build:client` and `npm start`. Client code is bundled into static files and served by the Node.js/Express application.
 
 ## Requirements
-[Node](https://nodejs.org/en/) 14.5+
+[Node](https://nodejs.org/en/) 14+
 
 ## License
 [MIT](./license.md)
